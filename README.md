@@ -6,7 +6,6 @@
 
 ![Alt text](/Images/Health_Ins.jpg)
 
-
 ## Project Description
 
 The main focus in this project is to model and syntetyse a data set of a choosen phenomenon using Python
