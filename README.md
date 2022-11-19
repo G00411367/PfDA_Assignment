@@ -4,8 +4,7 @@
 ### Creating a Data Set by simulating a real-world phenomenon: 
 ### Private Health Insurance in Ireland
 
-![Alt text](../../../../../../../C:/Users/121994/Desktop/atu/ProgrfDA/PfDA_Assignment/Images/Health_Ins.jpg)
-
+![Alt text](/Images/Health_Ins.jpg)
 
 
 ## Project Description
